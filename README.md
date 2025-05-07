@@ -1,52 +1,32 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Brandon Paillacho</h1></summary>
-  </ul>
-</div>
-
-<p>
-  Estudiante en desarrollo web independiente, con aptitudes en el Frontend usando HTML, CSS, Javascript. 
-</p>
-
 [![UnCompa.png](https://i.postimg.cc/8CbNTVcW/1-Photoroom.png)](https://postimg.cc/xkqWPhKT)
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
 
+<!-- Intro start -->
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+### 👋 ¡Hola! Soy Brandon
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🔭 Actualmente estoy trabajando con **AWS, React, React Native, Node.js y MongoDB**.
+- ☁️ Me apasiona la computación en la nube, por eso estoy profundizando en **AWS**.
+- 💬 Puedes preguntarme sobre **AWS, React, React Native, Node.js o MongoDB**.
+- 📫 ¿Quieres contactarme? Escríbeme a **uncompadev@gmail.com**.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+---
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+¡Gracias por visitar mi perfil! 🚀
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,prisma,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,prisma,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,nestjs,astro,bash,supabase,vite&perline=14" />
   </a>
 </p>
 
@@ -55,7 +35,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contactame🤝</h2></summary>
   </ul>
 </div>
 
@@ -82,6 +62,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 29/4/2023
+Ultima edición: 07/5/2025
