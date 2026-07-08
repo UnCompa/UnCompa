@@ -1,59 +1,99 @@
-<!--horizontal divider(gradiant)-->
+<!-- Banner -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Intro start -->
 
-### 👋 ¡Hola! Soy Brandon
+# 👋 ¡Hola! Soy Brandon Paillacho
 
-- 🔭 Actualmente estoy trabajando con **AWS, React, React Native, Node.js y MongoDB**.
-- ☁️ Me apasiona la computación en la nube, por eso estoy profundizando en **AWS**.
-- 💬 Puedes preguntarme sobre **AWS, React, React Native, Node.js o MongoDB**.
-- 📫 ¿Quieres contactarme? Escríbeme a **uncompadev@gmail.com**.
+### Full Stack Developer | Backend Engineer | Cloud Enthusiast
+
+Me apasiona diseñar aplicaciones modernas, escalables y bien estructuradas.
+
+Actualmente estoy enfocado en el desarrollo de productos SaaS, arquitecturas backend con NestJS, aplicaciones móviles con Flutter e integración de Inteligencia Artificial.
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+## 🚀 Actualmente
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+- 🧠 Construyendo **NoteIgnite**, una plataforma de notas inteligentes impulsada por IA.
+- 🏗️ Diseñando arquitecturas escalables con **NestJS**, **Prisma** y **PostgreSQL**.
+- 📱 Desarrollando aplicaciones con **Flutter** y **React**.
+- ☁️ Profundizando en **AWS**, Docker y despliegues en la nube.
+- 🤖 Integrando modelos de IA en aplicaciones reales.
+
+---
+
+## 💡 Áreas de interés
+
+- Backend Development
+- Software Architecture
+- Clean Architecture
+- Microservices
+- Cloud Computing
+- Artificial Intelligence
+- DevOps
+- Mobile Development
+
+---
+
+# 🛠️ Tecnologías
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,prisma,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,nestjs,astro,bash,supabase,vite&perline=14" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,flutter,astro,vite,tailwind,postgres,prisma,redis,docker,kubernetes,aws,linux,bash,nginx,git,github,python,firebase,supabase,figma,postman,vscode&perline=13"/>
+</a>
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contactame🤝</h2></summary>
-  </ul>
-</div>
+# ⭐ Proyectos Destacados
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/brandon-paillacho-6673812a8/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://portafolio.uncompa.dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5339/5339184.png" alt="web" height="50" width="50" /></a> 
+### 📝 NoteIgnite
 
-</p>
+Plataforma SaaS de notas inteligentes con IA.
 
+**Tecnologías**
 
-<!--profile visit count-->
+- Flutter
+- NestJS
+- PostgreSQL
+- Prisma
+- OpenAI
+- Redis
+- Docker
+
+---
+
+### 🌐 UnCompa.dev
+
+Mi espacio donde comparto contenido sobre programación, desarrollo de software y proyectos personales.
+
+---
+
+# 📈 Actualmente aprendiendo
+
+- Arquitecturas distribuidas
+- AWS
+- Kubernetes
+- IA aplicada a productos
+- Optimización de rendimiento
+
+---
+
+# 📫 Contacto
+
+📧 uncompadev@gmail.com
+
+🌐 https://brandon-portafolio.vercel.app/
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/brandon-paillacho-6673812a8/
+
+---
+
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
+![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)
+
 </div>
 
-
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-
-Ultima edición: 22/06/2025
