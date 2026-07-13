@@ -1,90 +1,200 @@
 <!-- Banner -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 👋 ¡Hola! Soy Brandon Paillacho
+<div align="center">
 
-### Full Stack Developer | Backend Engineer | Cloud Enthusiast
+# 👋 Hi, I'm Brandon Paillacho
 
-Me apasiona diseñar aplicaciones modernas, escalables y bien estructuradas.
+### Product-Oriented Software Engineer
 
-Actualmente estoy enfocado en el desarrollo de productos SaaS, arquitecturas backend con NestJS, aplicaciones móviles con Flutter e integración de Inteligencia Artificial.
+I design and build digital products that solve real-world problems through scalable backend architectures, cross-platform applications, and Artificial Intelligence.
 
----
+[Portfolio](https://brandon-portafolio.vercel.app/) •
+[LinkedIn](https://www.linkedin.com/in/brandon-paillacho-6673812a8/) •
+[Email](mailto:uncompadev@gmail.com)
 
-## 🚀 Actualmente
-
-- 🧠 Construyendo **NoteIgnite**, una plataforma de notas inteligentes impulsada por IA.
-- 🏗️ Diseñando arquitecturas escalables con **NestJS**, **Prisma** y **PostgreSQL**.
-- 📱 Desarrollando aplicaciones con **Flutter** y **React**.
-- ☁️ Profundizando en **AWS**, Docker y despliegues en la nube.
-- 🤖 Integrando modelos de IA en aplicaciones reales.
+</div>
 
 ---
 
-## 💡 Áreas de interés
+# About Me
 
-- Backend Development
-- Software Architecture
-- Clean Architecture
-- Microservices
-- Cloud Computing
-- Artificial Intelligence
-- DevOps
-- Mobile Development
+I enjoy building software that people actually use.
+
+My journey started with a simple HTML class during high school and quickly evolved into a passion for software engineering. Today, I focus on transforming ideas into real products—from architecture and backend development to cloud infrastructure and AI integration.
+
+I believe technology should simplify people's lives, not make them more complex.
 
 ---
 
-# 🛠️ Tecnologías
+# Philosophy
+
+> **I don't build software to use technologies.**
+>
+> **I build products that solve real problems.**
+>
+> Technology is simply the tool.
+
+---
+
+# What I'm Building
+
+## 🧠 NoteIgnite
+
+An AI-powered learning platform that transforms lectures, recordings and notes into study material.
+
+Features include:
+
+- AI-generated notes
+- Audio transcription
+- Flashcards
+- Quizzes
+- AI Chat (RAG)
+- Cross-device synchronization
+- Offline-first mobile experience
+
+---
+
+## 🚀 Current Focus
+
+- Designing scalable backend architectures
+- Building AI-powered SaaS products
+- Flutter & Next.js development
+- Distributed systems
+- Cloud infrastructure
+- Product design
+
+---
+
+# Featured Projects
+
+## 🧠 NoteIgnite
+
+AI-powered study platform built with Flutter, NestJS and OpenAI.
+
+**Stack**
+
+Flutter • NestJS • PostgreSQL • Redis • Docker • Cloudflare R2 • OpenAI
+
+---
+
+## 🎙 SpeakSum
+
+Transform lectures and meetings into intelligent notes using Whisper and AI.
+
+---
+
+## 🏪 CompaExpress
+
+Modern Point of Sale platform designed for small businesses.
+
+Focused on simplicity, onboarding and modular architecture.
+
+---
+
+## 📚 UnCompaDev
+
+Educational platform focused on helping developers learn through practical content.
+
+---
+
+# Professional Experience
+
+## Software Engineer
+
+### Neptuno Business Partner
+
+- Development of modern web applications
+- PHP & WordPress projects
+- Next.js applications
+- Supabase integration
+
+---
+
+## Backend Engineer
+
+### Clearminds Consultores
+
+Worked on enterprise software using a microservices architecture.
+
+Highlights:
+
+- Designed backend architecture
+- Created reusable microservice template
+- Developed multiple backend services
+- Implemented authentication with Keycloak
+- Integrated Twilio services
+- Used Terraform for infrastructure
+- Migrated infrastructure from Kubernetes to EC2
+- Temporary Backend Team Lead
+
+---
+
+# Tech Stack
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,flutter,astro,vite,tailwind,postgres,prisma,redis,docker,kubernetes,aws,linux,bash,nginx,git,github,python,firebase,supabase,figma,postman,vscode&perline=13"/>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs,react,flutter,postgres,prisma,redis,docker,kubernetes,aws,terraform,linux,bash,nginx,git,github,python,supabase,firebase,figma,postman,vscode&perline=13"/>
 </a>
 </p>
 
 ---
 
-# ⭐ Proyectos Destacados
+# Engineering Principles
 
-### 📝 NoteIgnite
-
-Plataforma SaaS de notas inteligentes con IA.
-
-**Tecnologías**
-
-- Flutter
-- NestJS
-- PostgreSQL
-- Prisma
-- OpenAI
-- Redis
-- Docker
+- Build products, not demos.
+- Keep architectures simple until complexity is necessary.
+- Design software with scalability in mind.
+- Automate repetitive tasks whenever possible.
+- AI should enhance the user experience.
+- Write software that is easy to maintain.
 
 ---
 
-### 🌐 UnCompa.dev
+# Currently Improving
 
-Mi espacio donde comparto contenido sobre programación, desarrollo de software y proyectos personales.
-
----
-
-# 📈 Actualmente aprendiendo
-
-- Arquitecturas distribuidas
-- AWS
-- Kubernetes
-- IA aplicada a productos
-- Optimización de rendimiento
+- Distributed Systems
+- Advanced Kubernetes
+- AI Agents
+- LLM Workflows
+- High Scale Architectures
+- Event-Driven Systems
 
 ---
 
-# 📫 Contacto
+# Beyond Code
 
-📧 uncompadev@gmail.com
+Outside of work I enjoy designing new product ideas, exploring emerging technologies and continuously refining my development workflow.
 
-🌐 https://brandon-portafolio.vercel.app/
+Most of my side projects start from problems I personally experience, which is why many of them eventually evolve into complete products.
 
-💼 LinkedIn
+---
+
+# GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=UnCompa&show_icons=true&hide_border=true&theme=transparent)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=UnCompa&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnCompa&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+---
+
+# Let's Connect
+
+📧 **Email**
+
+uncompadev@gmail.com
+
+🌐 **Portfolio**
+
+https://brandon-portafolio.vercel.app/
+
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/brandon-paillacho-6673812a8/
 
@@ -92,7 +202,7 @@ https://www.linkedin.com/in/brandon-paillacho-6673812a8/
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)
+*"Great software is built by solving meaningful problems."*
 
 </div>
 
