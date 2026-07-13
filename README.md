@@ -3,74 +3,74 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Brandon Paillacho
+# 👋 Hola, soy Brandon Paillacho
 
-### Product-Oriented Software Engineer
+### Desarrollador de Software Orientado a Producto
 
-I design and build digital products that solve real-world problems through scalable backend architectures, cross-platform applications, and Artificial Intelligence.
+Diseño y construyo productos digitales que resuelven problemas del mundo real mediante arquitecturas backend escalables, aplicaciones multiplataforma e Inteligencia Artificial.
 
-[Portfolio](https://brandon-portafolio.vercel.app/) •
+[Portafolio](https://brandon-portafolio.vercel.app/) •
 [LinkedIn](https://www.linkedin.com/in/brandon-paillacho-6673812a8/) •
-[Email](mailto:uncompadev@gmail.com)
+[Correo](mailto:uncompadev@gmail.com)
 
 </div>
 
 ---
 
-# About Me
+# Sobre Mí
 
-I enjoy building software that people actually use.
+Disfruto construir software que la gente realmente use.
 
-My journey started with a simple HTML class during high school and quickly evolved into a passion for software engineering. Today, I focus on transforming ideas into real products—from architecture and backend development to cloud infrastructure and AI integration.
+Mi camino comenzó con una clase sencilla de HTML durante el colegio y rápidamente se convirtió en una pasión por el desarrollo de software. Hoy en día, me enfoco en transformar ideas en productos reales, desde la arquitectura y el desarrollo backend hasta la infraestructura en la nube y la integración de IA.
 
-I believe technology should simplify people's lives, not make them more complex.
-
----
-
-# Philosophy
-
-> **I don't build software to use technologies.**
->
-> **I build products that solve real problems.**
->
-> Technology is simply the tool.
+Creo que la tecnología debe simplificar la vida de las personas, no hacerla más compleja.
 
 ---
 
-# What I'm Building
+# Filosofía
+
+> **No construyo software para usar tecnologías.**
+>
+> **Construyo productos que resuelven problemas reales.**
+>
+> La tecnología es simplemente la herramienta.
+
+---
+
+# Qué Estoy Construyendo
 
 ## 🧠 NoteIgnite
 
-An AI-powered learning platform that transforms lectures, recordings and notes into study material.
+Una plataforma de aprendizaje impulsada por IA que transforma clases, grabaciones y notas en material de estudio.
 
-Features include:
+Características incluidas:
 
-- AI-generated notes
-- Audio transcription
-- Flashcards
-- Quizzes
-- AI Chat (RAG)
-- Cross-device synchronization
-- Offline-first mobile experience
-
----
-
-## 🚀 Current Focus
-
-- Designing scalable backend architectures
-- Building AI-powered SaaS products
-- Flutter & Next.js development
-- Distributed systems
-- Cloud infrastructure
-- Product design
+- Notas generadas por IA
+- Transcripción de audio
+- Flashcards (tarjetas de memoria)
+- Cuestionarios (Quizzes)
+- Chat con IA (RAG)
+- Sincronización entre dispositivos
+- Experiencia móvil offline-first
 
 ---
 
-# Featured Projects
+## 🚀 Enfoque Actual
+
+- Diseñar arquitecturas backend escalables
+- Construir productos SaaS impulsados por IA
+- Desarrollo con Flutter y Next.js
+- Sistemas distribuidos
+- Infraestructura en la nube
+- Diseño de producto
+
+---
+
+# Proyectos Destacados
 
 ## 🧠 NoteIgnite
 
-AI-powered study platform built with Flutter, NestJS and OpenAI.
+Plataforma de estudio impulsada por IA construida con Flutter, NestJS y OpenAI.
 
 **Stack**
 
@@ -80,57 +80,57 @@ Flutter • NestJS • PostgreSQL • Redis • Docker • Cloudflare R2 • Ope
 
 ## 🎙 SpeakSum
 
-Transform lectures and meetings into intelligent notes using Whisper and AI.
+Transforma clases y reuniones en notas inteligentes utilizando Whisper e IA.
 
 ---
 
 ## 🏪 CompaExpress
 
-Modern Point of Sale platform designed for small businesses.
+Plataforma de Punto de Venta moderna diseñada para pequeños negocios.
 
-Focused on simplicity, onboarding and modular architecture.
+Enfocada en la simplicidad, el onboarding del usuario y una arquitectura modular.
 
 ---
 
 ## 📚 UnCompaDev
 
-Educational platform focused on helping developers learn through practical content.
+Plataforma educativa enfocada en ayudar a desarrolladores a aprender a través de contenido práctico.
 
 ---
 
-# Professional Experience
+# Experiencia Profesional
 
-## Software Engineer
+## Desarrollador de Software
 
 ### Neptuno Business Partner
 
-- Development of modern web applications
-- PHP & WordPress projects
-- Next.js applications
-- Supabase integration
+- Desarrollo de aplicaciones web modernas
+- Proyectos en PHP y WordPress
+- Aplicaciones con Next.js
+- Integración con Supabase
 
 ---
 
-## Backend Engineer
+## Desarrollador Backend
 
 ### Clearminds Consultores
 
-Worked on enterprise software using a microservices architecture.
+Trabajé en software empresarial utilizando una arquitectura de microservicios.
 
-Highlights:
+Puntos destacados:
 
-- Designed backend architecture
-- Created reusable microservice template
-- Developed multiple backend services
-- Implemented authentication with Keycloak
-- Integrated Twilio services
-- Used Terraform for infrastructure
-- Migrated infrastructure from Kubernetes to EC2
-- Temporary Backend Team Lead
+- Diseñé la arquitectura del backend
+- Creé una plantilla reutilizable para microservicios
+- Desarrollé múltiples servicios backend
+- Implementé autenticación con Keycloak
+- Integré servicios de Twilio
+- Utilicé Terraform para la infraestructura
+- Migré la infraestructura de Kubernetes a EC2
+- Líder temporal del equipo de Backend
 
 ---
 
-# Tech Stack
+# Stack Tecnológico
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -140,37 +140,37 @@ Highlights:
 
 ---
 
-# Engineering Principles
+# Principios de Desarrollo
 
-- Build products, not demos.
-- Keep architectures simple until complexity is necessary.
-- Design software with scalability in mind.
-- Automate repetitive tasks whenever possible.
-- AI should enhance the user experience.
-- Write software that is easy to maintain.
-
----
-
-# Currently Improving
-
-- Distributed Systems
-- Advanced Kubernetes
-- AI Agents
-- LLM Workflows
-- High Scale Architectures
-- Event-Driven Systems
+- Construir productos, no demos.
+- Mantener las arquitecturas simples hasta que la complejidad sea necesaria.
+- Diseñar software pensando en la escalabilidad.
+- Automatizar tareas repetitivas siempre que sea posible.
+- La IA debe mejorar la experiencia del usuario.
+- Escribir software que sea fácil de mantener.
 
 ---
 
-# Beyond Code
+# Mejorando Actualmente
 
-Outside of work I enjoy designing new product ideas, exploring emerging technologies and continuously refining my development workflow.
-
-Most of my side projects start from problems I personally experience, which is why many of them eventually evolve into complete products.
+- Sistemas Distribuidos
+- Kubernetes Avanzado
+- Agentes de IA
+- Flujos de trabajo con LLMs (Modelos de Lenguaje Grande)
+- Arquitecturas de Alta Escala
+- Sistemas Orientados a Eventos
 
 ---
 
-# GitHub Stats
+# Más Allá del Código
+
+Fuera del trabajo disfruto diseñar nuevas ideas de productos, explorar tecnologías emergentes y perfeccionar continuamente mi flujo de trabajo de desarrollo.
+
+La mayoría de mis proyectos personales nacen de problemas que experimento directamente, razón por la cual muchos de ellos terminan convirtiéndose en productos completos.
+
+---
+
+# Estadísticas de GitHub
 
 <div align="center">
 
@@ -184,13 +184,13 @@ Most of my side projects start from problems I personally experience, which is w
 
 ---
 
-# Let's Connect
+# Conectemos
 
-📧 **Email**
+📧 **Correo**
 
 uncompadev@gmail.com
 
-🌐 **Portfolio**
+🌐 **Portafolio**
 
 https://brandon-portafolio.vercel.app/
 
@@ -202,7 +202,7 @@ https://www.linkedin.com/in/brandon-paillacho-6673812a8/
 
 <div align="center">
 
-*"Great software is built by solving meaningful problems."*
+*"El gran software se construye resolviendo problemas significativos."*
 
 </div>
 
